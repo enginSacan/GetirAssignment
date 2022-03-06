@@ -5,6 +5,7 @@ This repo is created to show subjects below:
 * **Appium** library usage with Python Behave.
 * Getting arguments in terminal before executing python file or you can use PyCharm
 * You should add site packages to your python environment.
+* You have to load apk file to your android device or emulator to run the test.
 
 [Pyhton]: https://www.python.org/
 [Python Behave]: https://behave.readthedocs.io/en/stable/
